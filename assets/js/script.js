@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const heroHeading = document.getElementById('hero-heading');
     const paragraph1 = document.getElementById('paragraph-1');
-    
     heroHeading.addEventListener('mouseover', () => {
         heroHeading.textContent = 'Feature Display';
     });
@@ -11,10 +10,10 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     paragraph1.addEventListener('mouseover', () => {
-        paragraph1.textContent = 'Hovered Paragraph 1';
+        paragraph1.textContent = 'Seatwork 4';
     });
 
     paragraph1.addEventListener('mouseout', () => {
-        paragraph1.textContent = 'Seatwork 4';
+        paragraph1.textContent = 'シートワーク 4 ';
     });
 });
