@@ -74,7 +74,7 @@ Guiding Question:
 - Parallax transition
 - Transactional
 - Js text manipulation
-- css animation
+- Css animations
 
 ### Technology
 <!-- TODO: List of Technology Used -->
