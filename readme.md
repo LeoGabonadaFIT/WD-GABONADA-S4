@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project/WD-GABONADA-S4)
+![](https://visit-counter.vercel.app/counter.png?page=LeoGabonadaFIT/WD-Template-Project/WD-GABONADA-S4)
 
 ---
 
@@ -61,7 +61,9 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+  The project is seatwork 4
 - Whats the purpose
+  To express different kinds of hero pages
 - What are key components
 - What technology used and how it is used
 
@@ -71,6 +73,8 @@ Guiding Question:
 - MultiPage Website/Single Page Website
 - Parallax transition
 - Transactional
+- Js text manipulation
+- css animation
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +121,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3school | purpose is to explore more css techniques | https://www.w3schools.com/w3css/defaulT.asp |
+| W3school | purpose is to explore more js techniques | https://www.w3schools.com/js/ |
+| W3school | purpose is to explore more html techniques | https://www.w3schools.com/html/ |
+
+
