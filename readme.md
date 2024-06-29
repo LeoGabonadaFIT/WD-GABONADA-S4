@@ -60,12 +60,14 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
+- What is the project:
   The project is seatwork 4
-- Whats the purpose
+- Whats the purpose:
   To express different kinds of hero pages
-- What are key components
-- What technology used and how it is used
+- What are key components:
+  Key components are implementation of Js, and css animations.
+- What technology used and how it is used:
+  The technology used are JS, CSS and HTML. HTML for the structure of the web, css is for the design and animation, JS for scripting
 
 ### Key Components
 <!-- TODO: List of Key Components -->
