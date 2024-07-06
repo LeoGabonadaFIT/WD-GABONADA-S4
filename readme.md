@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="://github.com/LeoGabonadaFIT/">
+  <a href="https://github.com/LeoGabonadaFIT">
   <!-- TODO: If you want to add logo or banner you can add it here -->
      <a href="https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=random+logo+png&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&tbs=ic:trans#imgrc=DwZNp45Imd9UNM">
   </a>
