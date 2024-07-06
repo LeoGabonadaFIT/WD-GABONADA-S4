@@ -6,7 +6,7 @@
 <div align="center">
   <a href="://github.com/LeoGabonadaFIT/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-     <a href="./assets/img/random_logo_by_criticl_d7eqdvw-fullview.png">
+     <a href="https://www.google.com/search?as_st=y&tbm=isch&hl=en&as_q=random+logo+png&as_epq=&as_oq=&as_eq=&cr=&as_sitesearch=&tbs=ic:trans#imgrc=DwZNp45Imd9UNM">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Seatwork 4</h3>
